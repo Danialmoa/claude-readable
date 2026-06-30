@@ -2,7 +2,7 @@
 
 > One keystroke opens a frosted-glass panel listing your **open Claude Code sessions** — pick one to read its latest response in a clean, roomy reader view. Press again to dismiss.
 
-Long Claude Code answers are hard to read in a dark terminal, squeezed between commands and tool output. `claude-readable` shows your currently-running Claude sessions in a native macOS frosted-glass panel; pick one and its last response renders in a comfortable reader view — serif type, generous line-height, selectable text — then **Esc** and you're back.
+**Reading long Claude answers in a terminal is rough** — dark background, monospace, wrapped between commands and tool output, and gone the moment you scroll. `claude-readable` is essentially **reader mode for your Claude Code conversations**: one keystroke lifts the latest response of any open session into a clean, light, roomy panel — serif type, generous line-height, selectable text — so you can actually *read* the explanation, then **Esc** back to work.
 
 It's macOS-native frosted glass (`NSVisualEffectView`), not a browser tab.
 
