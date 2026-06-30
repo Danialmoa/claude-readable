@@ -8,7 +8,7 @@ It's macOS-native frosted glass (`NSVisualEffectView`), not a browser tab.
 
 > **🛠️ Vibe-coded.** This project was designed, built, and debugged end-to-end by *vibe coding* — a running conversation with [Claude Code](https://www.anthropic.com/claude-code) (Claude Opus 4.8) — rather than typed by hand. Expect a small, pragmatic codebase that grew by iteration.
 
-> _Screenshot: drop a `docs/demo.png` and link it here._
+![claude-readable — a Claude Code response in the glass reading panel, floating over the terminal](docs/demo.png)
 
 ## Requirements
 
