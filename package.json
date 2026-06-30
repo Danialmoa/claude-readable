@@ -1,0 +1,12 @@
+{
+  "name": "claude-readable",
+  "version": "1.0.0",
+  "description": "A frosted-glass reader for your open Claude Code sessions' latest responses (macOS).",
+  "type": "module",
+  "license": "MIT",
+  "author": "Danial Moafi",
+  "keywords": ["claude-code", "reading-mode", "terminal", "macos", "glass"],
+  "dependencies": {
+    "marked": "^12.0.2"
+  }
+}

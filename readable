@@ -1,0 +1,5 @@
+#!/bin/zsh
+# claude-readable launcher — opens the last Claude Code response in a reading view.
+# Resolve node absolutely so this works under Shortcuts/launchd (minimal PATH) too.
+NODE="$(command -v node 2>/dev/null || echo /opt/homebrew/bin/node)"
+exec "$NODE" "$HOME/.claude-readable/readable.mjs" "$@"
